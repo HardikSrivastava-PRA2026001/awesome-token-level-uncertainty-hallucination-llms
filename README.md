@@ -38,7 +38,7 @@ This area sits at the intersection of probabilistic machine learning, natural la
 
 A scholarly review paper covering the theoretical foundations of token-level uncertainty quantification, its principal metrics (sequence log-probability, predictive entropy, semantic entropy, Claim Conditioned Probability, focus-weighted uncertainty), current detection approaches (RAUQ, SIVR, TokenHD, DynHD), and open research challenges such as confident hallucination and semantic–lexical conflation.
 
-📄 [View Paper](paper/AI_Assisted_Research_Paper.pdf)
+📄 [View Paper](paper/AI_Assisted_Research_Paper.pdf) If its preview is not available Please download to see it.
 
 ---
 
@@ -46,7 +46,7 @@ A scholarly review paper covering the theoretical foundations of token-level unc
 
 All references cited in the AI-assisted paper and listed in this repository were independently verified for existence, correct authorship, publication venue, and identifier (DOI / arXiv ID) before inclusion. No AI-generated citation was accepted without independent verification against a publisher page, DOI/Crossref record, arXiv listing, ACL Anthology entry, or equivalent authoritative source.
 
-📄 [View Audit](citation-audit/Citation_Integrity_Audit.pdf)
+📄 [View Audit](citation-audit/Citation_Integrity_Audit.pdf) If its preview is not available Please download to see it.
 
 ---
 
