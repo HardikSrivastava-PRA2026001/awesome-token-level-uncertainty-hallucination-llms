@@ -220,4 +220,4 @@ This repository was created as part of an individual academic assignment. Sugges
 
 ## License
 
-Code snippets and original written content in this repository (README, citation-integrity audit, and the accompanying research paper) are © the repository author and licensed under [MIT License](LICENSE) unless otherwise noted. Linked third-party papers, datasets, and tools remain the property of their respective authors/organizations and are referenced here for research and educational purposes only — no copyrighted PDFs of third-party papers are redistributed in this repository.
+Code snippets and original written content in this repository (README, citation-integrity audit, and the accompanying research paper) are © the repository author and licensed under [Apache License 2.0](LICENSE) unless otherwise noted. Linked third-party papers, datasets, and tools remain the property of their respective authors/organizations and are referenced here for research and educational purposes only — no copyrighted PDFs of third-party papers are redistributed in this repository.
